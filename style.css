@@ -217,9 +217,6 @@ top: 20%;
 border: 1px solid #000000;
 }
 
-.cambioColor {
-  color:none;
-}
 .cambioColor:hover{
   color:#B86F7C;
 }
