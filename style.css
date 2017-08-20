@@ -1,0 +1,226 @@
+body{
+position: relative;
+width: 375px;
+height: 3276px;
+
+background: #FFFFFF;
+}
+
+/* Rectangle 2 */
+.header{
+position: absolute;
+width: 100%;
+height: 12%;
+left: 0%;
+top: 0%;
+
+background: url(https://s-media-cache-ak0.pinimg.com/564x/1a/84/c7/1a84c73ed840251c9f84a63b944f4e2a.jpg), #C4C4C4;
+}
+
+/* Rectangle */
+.box{
+position: absolute;
+width: 43%;
+height: 55%;
+left: 7%;
+top: 25%;
+
+border: 3px solid #000000;
+box-sizing: border-box;
+}
+
+/* INGRID LOY */
+h1{
+position: absolute;
+width: 78%;
+height: 5%;
+left: 11%;
+top: 20%;
+
+font-family: Julius Sans One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 72px;
+
+color: #000000;
+
+}
+
+/* proyectos travesias acerca de mi contacto */
+ul{
+position: absolute;
+width: 72%;
+height: 7%;
+left: 11%;
+top: 13%;
+
+font-family: Questrial;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+font-size: 30px;
+display: inline;
+
+color: #000000;
+
+}
+
+li{
+ display: inline;
+padding: 20px; 
+ line-height: 1.5em; 
+}
+
+
+/* proyectos */
+h2{
+position: absolute;
+width: 72%;
+height: 1%;
+left: 11%;
+top: 21%;
+
+font-family: Questrial;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+
+color: #DE8796;
+}
+
+
+/* Rectangle 3 */
+.box2{
+background: url(http://brilliant-graphics.com/wp-content/uploads/2017/01/header-1.jpg);
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 25%;
+background-size: cover;
+
+}
+
+/* Rectangle 4 */
+.box3{
+background: url(https://freesouls.cc/thebooks/full/02-LIMITED-EDITION-1-book-perspective-b_b.jpg);
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 33%;
+background-size: cover;
+}
+
+/* Rectangle 4 */
+.box4{
+background: url(http://www.zeengal.com/images_new/tablet.jpg);#B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 41%;
+
+
+}
+
+/* Rectangle 4 */
+.box5{
+background: url(https://originalmockups.com/content/2-bundles/10-packman-mockup-bundle/1-index/boxe-mockups-2.jpg), #B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 49%;
+background-size: cover;
+	
+}
+
+
+
+/* Rectangle 4 */
+.box6{
+background: url(http://psdshare.com/wp-content/uploads/2016/05/download-free-Book-Mock-Up-Softcover-Edition.jpg), #B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 57%;
+background-size: cover;
+
+}
+
+/* Rectangle 4 */
+.box7{
+background: url(http://www.muniqueilen.cl/www/images/Noticias2014/muelle-paildad.jpg), #B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 68%;
+background-size: cover;
+
+}
+
+/* Rectangle 4 */
+.box8{
+background: url(http://www.turismoouropreto.com/wp-content/uploads/ouro-preto2.jpg), #B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 76%;
+background-size: cover;
+
+}
+
+/* Rectangle 4 */
+.box9{
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBs1K9TvN-6uN5Ife7rc4bavrV2az2o2IpjECF8SOJ6dMIMvL), #B86F7C;
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0%;
+top: 84%;
+background-size: cover;
+
+}
+
+/* travesias */
+h3{
+position: absolute;
+width: 100%;
+height: 7%;
+left: 8%;
+top: 96%;
+
+font-family: Questrial;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+
+color: #DE8796;	
+}
+
+/* Vector */
+.line{
+position: absolute;
+width: 50%;
+height: 0%;
+left: 23%;
+top: 20%;
+
+border: 1px solid #000000;
+}
+
+.cambioColor {
+  color:none;
+}
+.cambioColor:hover{
+  color:#B86F7C;
+}
+
