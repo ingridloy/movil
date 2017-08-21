@@ -65,9 +65,7 @@ display: inline;
 
 color: #000000;
 
-}
-ul:hover{
-  color:#B86F7C;
+
 }
 li{
  display: inline;
@@ -75,7 +73,9 @@ padding: 20px;
  line-height: 1.5em; 
 }
 
-
+ul:hover{
+  color:#B86F7C;
+}
 /* proyectos */
 h2{
 position: absolute;
