@@ -66,7 +66,9 @@ display: inline;
 color: #000000;
 
 }
-
+ul:hover{
+  color:#B86F7C;
+}
 li{
  display: inline;
 padding: 20px; 
@@ -229,12 +231,5 @@ left: 23%;
 top: 20%;
 
 border: 1px solid #000000;
-}
-
-.cambioColor {
-  color:black;
-}
-.cambioColor:hover{
-  color:#B86F7C;
 }
 
